@@ -16,5 +16,23 @@ It is not our duty to understand the arbitrary, meaningless dictates of machines
 #####Human-Centered Design
 
 Good design requires good communication especially from machine to person,
-indicating which actions are possible, what is happening, and what is about to 
+indicating which actions are possible, what is happening, and what is about to
 happen.
+
+####Fundamental Priciples of Interaction
+
+Discoverability results from appropriate application of five fundamental psychological
+concepts: *affordances*, *signifiers*, *constraints*, *mappings* and *feedback*.
+
+#####Affordance
+
+An affordance is a relationship between the properties of an object and the
+capabilities of the agent that determines just how the object could possibly used.
+
+#####Signifiers
+
+Affordances determine what actions are possible. Signifiers communicate where the
+action should take place.
+
+The term signifier refers to any mark or sound, any perceivable indicator that
+communicates appropriate behavior to a person.
